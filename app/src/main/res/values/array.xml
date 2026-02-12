@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="module_scope">
+        <item>android</item>
+        <item>com.android.settings</item>
+        <item>com.android.systemui</item>
+        <item>com.android.launcher</item>
+        <item>com.oplus.battery</item>
+        <item>com.heytap.speechassist</item>
+        <item>com.coloros.ocrscanner</item>
+        <item>com.oplus.games</item>
+        <item>com.finshell.wallet</item>
+        <item>com.coloros.phonemanager</item>
+        <item>com.android.mms</item>
+        <item>com.coloros.securepay</item>
+        <item>com.heytap.health</item>
+        <item>com.oplus.appdetail</item>
+        <item>com.heytap.quicksearchbox</item>
+        <item>com.mi.health</item>
+        <item>com.oplus.ota</item>
+        <item>com.coloros.oshare</item>
+        <item>com.android.incallui</item>
+        <item>com.oplus.notificationmanager</item>
+        <item>com.oplus.exsystemservice</item>
+        <item>com.android.phone</item>
+        <item>com.coloros.weather2</item>
+        <item>com.heytap.browser</item>
+        <item>com.oplus.securitypermission</item>
+        <item>com.heytap.themestore</item>
+    </string-array>
+    <string-array name="language">
+        <item>@string/follow_system</item>
+        <item>简体中文</item>
+        <item>English</item>
+        <item>日本語</item>
+        <item>Русский</item>
+        <item>梗体中文 By@Pencil</item>
+        <item>한국어</item>
+    </string-array>
+    <integer-array name="my_card_stroke_gradient_colors_light">
+        <item>0x29ffffff</item>
+        <item>0xccffffff</item>
+    </integer-array>
+    <integer-array name="my_card_stroke_gradient_colors_dark">
+        <item>0x00ffffff</item>
+        <item>0x30ffffff</item>
+    </integer-array>
+    <string-array name="hardware_indicator_display_options">
+        <item>@string/power</item>
+        <item>@string/current</item>
+        <item>@string/voltage</item>
+        <item>@string/cpu_temperature</item>
+        <item>@string/battery_temperature</item>
+        <item>@string/cpu_frequency</item>
+        <item>@string/cpu_usage</item>
+        <item>@string/ram_usage</item>
+    </string-array>
+    <string-array name="hardware_indicator_gravity_options">
+        <item>@string/status_bar_time_gravity_center</item>
+        <item>@string/status_bar_time_gravity_top</item>
+        <item>@string/status_bar_time_gravity_bottom</item>
+        <item>@string/status_bar_time_gravity_end</item>
+        <item>@string/status_bar_time_gravity_center_horizontal</item>
+        <item>@string/status_bar_time_gravity_center_vertical</item>
+        <item>@string/status_bar_time_gravity_fill</item>
+        <item>@string/status_bar_time_gravity_fill_horizontal</item>
+        <item>@string/status_bar_time_gravity_fill_vertical</item>
+    </string-array>
+    <string-array name="clock_style_options">
+        <item>@string/preset</item>
+        <item>@string/geek</item>
+    </string-array>
+    <string-array name="network_speed_style_options">
+        <item>@string/default_mode</item>
+        <item>@string/upload_download</item>
+    </string-array>
+    <string-array name="icon_indicator_options">
+        <item>@string/no_icon</item>
+        <item>△▽▲▼</item>
+        <item>▵▿▴▾</item>
+        <item>☖⛉☗⛊</item>
+        <item>↑↓</item>
+        <item>⇧⇩</item>
+    </string-array>
+    <string-array name="fold_mode">
+        <item>@string/unfold</item>
+        <item>@string/fold</item>
+    </string-array>
+    <string-array name="oplus_feature_options">
+        <item>@string/default_mode</item>
+        <item>@string/force_on</item>
+        <item>@string/force_off</item>
+    </string-array>
+    <string-array name="network_speed_alignment_options">
+        <item>@string/alignment_default</item>
+        <item>@string/alignment_left</item>
+        <item>@string/alignment_center</item>
+        <item>@string/alignment_right</item>
+    </string-array>
+</resources>

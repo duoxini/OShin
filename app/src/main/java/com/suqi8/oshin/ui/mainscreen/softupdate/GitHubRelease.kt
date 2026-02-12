@@ -1,0 +1,20 @@
+package com.suqi8.oshin.ui.mainscreen.softupdate
+
+import com.google.gson.annotations.SerializedName
+
+data class GitHubRelease(
+    @SerializedName("id")
+    val id: Long,
+    @SerializedName("name")
+    val name: String,
+    @SerializedName("tag_name")
+    val tagName: String,
+    @SerializedName("body")
+    val body: String,
+    @SerializedName("created_at")
+    val createdAt: String,
+    @SerializedName("published_at")
+    val publishedAt: String?,
+    @SerializedName("assets")
+    val assets: List<GitHubAsset>
+)
